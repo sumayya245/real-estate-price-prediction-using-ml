@@ -59,3 +59,5 @@ These models are trained, evaluated, and compared using standard regression metr
 - **R² Score** (Accuracy of the model)
 - **MAE** (Mean Absolute Error)
 - **RMSE** (Root Mean Squared Error)
+
+- <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ba8b045e-eee5-4176-9a14-a4a60262ac5f" />
